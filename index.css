@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.log_in_section {
+  background: url("https://www.enerpize.com/wp-content/themes/enerpize/assets/images/first-section2.svg") center center no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  /* padding: 15vh 15vw 15vh 0; */
+  display: grid;
+  place-items: center;
+}
+
+.form-switch {
+  cursor: pointer;
+}
